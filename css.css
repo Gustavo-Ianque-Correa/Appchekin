@@ -1,4 +1,8 @@
-body {
+body{
     background-color: ghostwhite;
     color: black;
+}
+
+#login-form{
+    background-color: aliceblue;
 }
